@@ -9,11 +9,11 @@ global.nomerowner = ["2347043759577"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
-global.casterix = 'DeeCeeXxx'
+global.skizo = 'ѕнισ-ѕαη 🎭'
+global.casterix = 'Migguuel'
 //watermark 
-global.packname = '*DAVID CYRIL*'
-global.author = 'QUEEN_ANITA-V3'
+global.packname = '*кαкαяσт*'
+global.author = 'ѕнισ-ѕαη 🎭'
 
 // cpanel 
 global.domain = 'https://' // deeceexxx
